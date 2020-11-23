@@ -15,7 +15,7 @@ import BookItem from './BookItem.vue'
 export default {
   name: 'BookList',
   components: {
-    BookItem
+    'boo-item': BookItem
   },
   data() {
     return {
