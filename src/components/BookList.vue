@@ -17,9 +17,9 @@ export default {
     return {
       title: 'All Books',
       books: [
-        {title: 'Anatomy of State', author: 'Murray M. Rothbard'},
-        {title: 'Atlas Shrugged', author: 'Ayn Rand'},
-        {title: 'A Short History of Man', author: 'Hans Herman Hoppe'},
+        {title: 'Self-Reliance', author: 'Ralph Waldo Emerson'},
+        {title: 'American Gods', author: 'Neil Gaiman'},
+        {title: 'Amusing Ourselves to Death', author: 'Neil Postman'},
       ]
     }
   },
